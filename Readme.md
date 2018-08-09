@@ -84,8 +84,8 @@ You may use the indexer with [Infura](https://infura.io) Ethereum as a Service, 
 
 I used a very simple [DAPP](https://github.com/digitaldonkey/react-box-event-handling) to interact with the CallableEvents smart contract used as a example here. 
 
-##Docker 
 
+##Docker
 
 ```bash 
 # Build
